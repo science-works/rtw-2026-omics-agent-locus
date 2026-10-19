@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [hridaya423/locus](https://github.com/hridaya423/locus).**
+>
+> Submitted version: [`94965d8`](https://github.com/science-works/rtw-2026-omics-agent-locus/tree/94965d83cac4b7aca0d3fda577abead87c4a3f37). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 # locus
 
 Find public omics datasets with a plain-English question, and see from the authors' own records whether each dataset fits.
